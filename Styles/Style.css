@@ -1,7 +1,20 @@
-#hobbies{
+body{
+    background-color: #9966CC;
+}
+.hobbies{
     background-color: aliceblue;
-    font-size: 24pt;
+    font-size: 12pt;
+    color: #000033;
+    border-radius: 10px;
+    padding: 5px;
 }
-p{
-    background-color: aqua;
-}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
