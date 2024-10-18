@@ -7,8 +7,10 @@ h1{
   font-family: "Playwrite DE Grund", cursive;
 
 }
-h2{
+#bluesubtitle{
   color: aliceblue;
+}
+h2{
   font-weight: bold;
   font-family: "Playwrite DE Grund", cursive;
 }
