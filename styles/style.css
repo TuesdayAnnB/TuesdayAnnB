@@ -1,12 +1,19 @@
 body{
     background-color: #9966CC;
 }
+h1{
+  color: aliceblue;
+  font-weight: bold;
+  font-family: "Playwrite DE Grund", cursive;
+
+}
 .hobbies{
     background-color: aliceblue;
     font-size: 12pt;
     color: #000033;
-    border-radius: 10px;
-    padding: 5px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: "SUSE", sans-serif;
 }
 .bd-placeholder-img {
     font-size: 1.125rem;
@@ -17,4 +24,9 @@ body{
     .bd-placeholder-img-lg {
       font-size: 3.5rem;
     }
+  }
+  div.card {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
   }
