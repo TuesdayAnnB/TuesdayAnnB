@@ -42,3 +42,9 @@ h2{
     width: 50%;
     height: auto;
   }
+  .light-text{
+    color:aliceblue;
+  }
+  footer{
+    position: static
+  }
