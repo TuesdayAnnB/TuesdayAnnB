@@ -1,4 +1,4 @@
-    {gameName: "Spongebob vs Doodlebob", gameURL: "https://a-nunley.github.io/dev-david/", gameAuthor: "Alex Nunley"},
+[    {gameName: "Spongebob vs Doodlebob", gameURL: "https://a-nunley.github.io/dev-david/", gameAuthor: "Alex Nunley"},
     {gameName: "Square Game", gameURL: "https://allisonlacy.github.io/alligamerepo/", gameAuthor: "Allison Lacy"},
     {gameName: "Escape the Garden", gameURL: "https://baileestrait.github.io/dev-david-lab/", gameAuthor: "Bailee Strait"},
     {gameName: "Race Against the Clock: Dr. Cumbie's Time Tangle", gameURL: "https://bdaniel3.github.io/timeTangle/", gameAuthor: "Brittney Daniel"},
@@ -16,4 +16,4 @@
     {gameName: "Wow Game", gameURL: "https://pmalhotra21.github.io/wow-game/", gameAuthor: "Paridhi Malhotra"},
     {gameName: "Slides", gameURL: "https://basstbone.github.io/dev-david-hw/", gameAuthor: "Sean Oliver"},
     {gameName: "Cow Game",gameURL: "https://sblakeuna.github.io/literate-octo-disco-david/",gameAuthor: "Spencer Blake"},
-    {gameName: "Find the Surprise!", gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", gameAuthor: "Tuesday Brown"}
+    {gameName: "Find the Surprise!", gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", gameAuthor: "Tuesday Brown"} ]
